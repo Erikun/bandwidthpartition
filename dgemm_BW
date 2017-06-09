@@ -5,7 +5,7 @@
 </expert>
 <analysis guided="true"><visitedstages><stage name="TIMELINE"/></visitedstages></analysis>
 <expertsystem current="INTRO"><visited><stage name="INTRO"/></visited></expertsystem>
-<vruler width="202"/>
+<vruler width="203"/>
 <hruler>
 </hruler>
 <timelinestate>
